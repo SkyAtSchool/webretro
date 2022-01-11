@@ -1,3 +1,4 @@
+Forked because blocked.
 # webretro
 [RetroArch](https://github.com/libretro) ported to WASM with emscripten!  
 [Demo](https://binbashbanana.github.io/webretro/)
