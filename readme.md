@@ -50,4 +50,4 @@ How to use: `webretroEmbed(domNodeToAppendTo, webretroPath, queries)` (returns t
 * Cheat codes are supported.
 * SMAS brick fix should automatically be softpatched to SMAS ROMs.
 * The keybinds are remapped so that all the inputs should be supported by a normal keyboard, but can be changed by the user. The default keybinds can be changed on line 12 of `assets/base.js`:
-<img src="./assets/controller_layout.png" alt="Controller Layout Map" width="600" />
+<img src="./assets/controller_layout.png" alt="Controller Layout Map" width="600" /> 
